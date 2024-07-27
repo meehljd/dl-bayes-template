@@ -1,7 +1,8 @@
-# mtg_modeling
-Modeling the Magic: The Gathering game.  I will explore aspects of the game, such as latent card strength, deck strength, card scarcity, and card prices.
+# Project Description
 
-For futher discussion, refere to the jupyter notebooks.
+_...describe the project in a few short sentences..._
+
+For further discussion, refer to the jupyter notebooks.
 
 
 # Installation
